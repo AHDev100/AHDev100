@@ -2,7 +2,7 @@
 <h3 align="center">I'm an Electrical Engineering student at University of Waterloo interested in technology and the world of Computer Science!</h3>
 
 - 🔭 I’m currently working on [NASA Mission Control](https://github.com/AHDev100/NASA-Mission-Project), an interactive dashboard for planning space missions.
-- 🌱 I’m currently learning **Java, GraphQL, Systems Design**
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me **arunhariharan21@gmail.com**
 - ⚡ Fun fact: **On average, people read 10% slower from a screen than from paper**
 
