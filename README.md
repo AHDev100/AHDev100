@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NASA Mission Control](https://github.com/AHDev100/NASA-Mission-Project), an interactive dashboard for planning space missions.
 - 🌱 I’m currently learning **Java, GraphQL, Systems Design**
-- 📫 How to reach me **arunhariharan1@gmail.com**
+- 📫 How to reach me **arunhariharan21@gmail.com**
 - ⚡ Fun fact: **On average, people read 10% slower from a screen than from paper**
 
 <a href="https://ca.linkedin.com/in/arun-hariharan-885593244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30"></a>
