@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">I'm an Electrical Engineering student at University of Waterloo interested in technology and the world of Computer Science!</h3>
 
-- 🌱 I’m currently learning **Concurrent Programming, Data Structures and Algorithms, and Systems Design**
-- 📫 How to reach me **arunhariharan21@gmail.com**
+- 🌱 I’m currently learning: **Concurrent Programming, Data Structures and Algorithms, and Systems Design**
+- 📫 How to reach me: **a24harih@uwaterloo.ca**
 - ⚡ Fun fact: **On average, people read 10% slower from a screen than from paper**
 
 <a href="https://ca.linkedin.com/in/arun-hariharan-885593244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30"></a>
