@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">I'm an Electrical Engineering student at University of Waterloo interested in technology and the world of Computer Science!</h3>
 
-- 🌱 I’m currently learning: **Spring Boot, Concurrent Programming**
+- 🌱 I’m currently learning
 - 📫 How to reach me: **a24harih@uwaterloo.ca**
 - ⚡ Fun fact: **On average, people read 10% slower from a screen than from paper**
 
