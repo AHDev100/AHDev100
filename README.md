@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">I'm a Computer Engineering student at University of Waterloo</h3>
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning about Microservices and gRPC
 - 📫 How to reach me: **a24harih@uwaterloo.ca**
 - ⚡ Fun fact: **On average, people read 10% slower from a screen than from paper**
 
