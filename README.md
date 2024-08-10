@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">I'm a Computer Engineering student at University of Waterloo</h3>
 
-- 🌱 I’m currently learning about Microservices and gRPC
 - 📫 How to reach me: **a24harih@uwaterloo.ca**
 - ⚡ Fun fact: **On average, people read 10% slower from a screen than from paper**
 
@@ -17,7 +16,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
