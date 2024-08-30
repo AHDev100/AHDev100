@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">I'm a Computer Engineering student at University of Waterloo</h3>
+<h3 align="center">I'm a Computer Engineering student at the University of Waterloo</h3>
 
 - 📫 How to reach me: **a24harih@uwaterloo.ca**
 - ⚡ Fun fact: **On average, people read 10% slower from a screen than from paper**
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<h3 align="left">Databases and ORMS:</h3>
+<h3 align="left">Databases and ORMs:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
